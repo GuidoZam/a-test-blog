@@ -7,6 +7,8 @@
 
 # GitHub Pages
 
+[Open sample site](https://guidozam.github.io/a-test-blog/)
+
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 <!--
